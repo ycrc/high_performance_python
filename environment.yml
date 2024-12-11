@@ -1,0 +1,16 @@
+name: hpp
+channels:
+  - conda-forge
+dependencies:
+  - python>3.8
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - dask
+  - distributed
+  - joblib
+  - scalene
+  - cupy
+  - jupyter
+  - jupyterlab
