@@ -8,9 +8,11 @@ dependencies:
   - pandas
   - matplotlib
   - dask
+  - dask-jobqueue
   - distributed
   - joblib
   - scalene
   - cupy
+  - cuda-version<=12.8
   - jupyter
   - jupyterlab
